@@ -16,8 +16,10 @@ body {
 .optionsStyle {
     list-style-type: none;
     justify-content: space-between;
-    padding: 0px 0px 10px 10px;
     text-decoration:none;
+}
+.firstContainer {
+    padding:15px;
 }
 .padding {
     padding: 5px;
@@ -38,11 +40,11 @@ body {
     text-align: center;
 }
 .secondContainer {
-    padding: 10px;
+    padding: 20px;
 }
 .paragraphStyle {
     border-left:3px solid #69696a;
-    padding-left: 10px;
+    padding-left: 15px;
 }
 .listStyle {
     display: flex;
